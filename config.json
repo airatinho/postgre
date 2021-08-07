@@ -1,0 +1,8 @@
+{
+    "dbtype": "postgresql",
+    "host":"localhost",
+    "port":5432,
+    "database":"ayrat",
+    "user":"postgres",
+    "password":"1"
+}

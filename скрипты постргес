@@ -1,0 +1,2 @@
+CREATE DATABASE ayrat;
+create user postgres WITH ENCRYPTED PASSWORD '1'
